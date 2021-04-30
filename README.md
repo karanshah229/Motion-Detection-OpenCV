@@ -19,4 +19,9 @@ or
 
 ![alt text](https://github.com/karanshah229/Motion-Detection-OpenCV/blob/main/images/sample_image_1.PNG "New Game")  
 
-![alt text](https://github.com/karanshah229/Motion-Detection-OpenCV/blob/main/images/sample_image_2.PNG "New Game")
+![alt text](https://github.com/karanshah229/Motion-Detection-OpenCV/blob/main/images/sample_image_2.PNG "New Game")  
+  
+  
+###### If you find a bug or want to suggest some improvements
+Take a pull request or email:
+> karanshah229@gmail.com
