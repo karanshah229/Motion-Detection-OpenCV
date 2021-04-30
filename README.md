@@ -17,3 +17,6 @@ or
 
 ### Sample Images
 
+![alt text](https://github.com/karanshah229/Motion-Detection-OpenCV/blob/main/images/sample_image_1.PNG "New Game")  
+
+![alt text](https://github.com/karanshah229/Motion-Detection-OpenCV/blob/main/images/sample_image_2.PNG "New Game")
